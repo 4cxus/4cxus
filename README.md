@@ -1,32 +1,39 @@
-# 4.CX
+<p align="center">
+  <a href="https://4.cx/">
+    <img src="assets/4cx-github-banner-1500x450.png" alt="4.CX — Webmaster Tools & Network Utilities" width="100%" />
+  </a>
+</p>
 
-### Webmaster Tools & Network Utilities
+<h1 align="center">4.CX — Webmaster Tools & Network Utilities</h1>
 
-**Practical tools for a smarter web.**
+<p align="center">Practical tools for a smarter web.</p>
 
-Welcome to the official GitHub profile of **4.CX**, a webmaster tools and network utilities platform developed by **4CX LLC**.
+<p align="center">
+  <a href="https://4.cx/">Official Website</a> ·
+  <a href="https://x.com/4CXUS">X / Twitter</a> ·
+  <a href="mailto:info@4.cx">Contact</a>
+</p>
 
-We are building practical, accessible tools for developers, webmasters, system administrators, and IT professionals.
+## About 4.CX
 
-### Our Focus
+**4.CX** is a webmaster tools and network utilities platform developed by **4CX LLC**. We're building practical tools to help developers, website owners, and IT professionals inspect and troubleshoot web infrastructure.
 
-- **DNS & Domain Intelligence** — DNS records, domain information, and network diagnostics.
-- **IP & Network Utilities** — IP information and network troubleshooting.
-- **Email Security** — SPF, DKIM, and DMARC diagnostics.
-- **SSL & Website Security** — Certificate inspection and security checks.
-- **SEO & Website Analysis** — Tools to help understand website configuration and search visibility.
+## What We're Building
 
-### Our Mission
+- **DNS & Domain** — DNS records and domain registration data (RDAP)
+- **IP Intelligence** — IP address and network information
+- **Email Security** — SPF, DKIM, and DMARC checks
+- **SSL & HTTP Security** — Certificates and security headers
+- **SEO Analysis** — Practical website diagnostics
 
-Make essential webmaster and network utilities easier to access, understand, and use.
+> Tool availability will be updated as features go live at [4.cx](https://4.cx/).
 
-### Official Links
+## Official Links
 
-- **Website:** https://4.cx/
-- **X (Twitter):** https://x.com/4CXUS
-- **GitHub:** https://github.com/4cxus
-- **Contact:** info@4.cx
+- Website: **https://4.cx/**
+- X: **https://x.com/4CXUS**
+- Contact: **info@4.cx**
 
 ---
 
-© 2026 4CX LLC. All rights reserved.
+<p align="center"><sub>© 2026 4CX LLC. All rights reserved.</sub></p>
