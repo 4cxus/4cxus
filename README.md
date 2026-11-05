@@ -3,7 +3,7 @@
 
 <a href="https://4.cx/">
   <img
-    src="./4cx-github-banner-1500x450.png"
+    src="./assets/4cx-github-banner-1500x450.png"
     alt="4.CX — Webmaster Tools & Network Utilities"
     width="100%"
   />
@@ -87,7 +87,7 @@ Website configuration and technical SEO:
 
 **Simplifying web infrastructure management through accessible, reliable, and practical technical utilities.**
 
-4.CX is built around five core principles:
+4.CX is guided by five core principles:
 
 | Principle | Description |
 | :--- | :--- |
